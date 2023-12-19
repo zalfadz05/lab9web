@@ -8,9 +8,9 @@
 2. Buat folder baru dengan nama lab9_php_modular pada docroot webserver(htdocs)
 3. Ikuti langkah-langkah praktikum
 ## Jalankan XAMPP dan akses ```http://localhost/phpmyadmin/``` untuk membuat database.
-![Gambar](<img width="960" alt="1" src="https://github.com/zalfadz05/lab9web/assets/115516617/5c62cbf0-82ba-42bf-a893-0164a8cf1e23">)
+![Gambar](https://github.com/zalfadz05/lab9web/blob/main/1.png)
 ## Buat file ```lab9_php_modular``` pada root directory web server ```(c:\xampp\htdocs)```
-![Gambar](web/2.png)
+![Gambar](https://github.com/zalfadz05/lab9web/blob/main/2.png)
 ## Buat file baru dengan nama ```header.php```
 ```python
 <!DOCTYPE html>
@@ -63,7 +63,7 @@
 <?php require('footer.php'); ?>
 ```
 ## Output
-![Gambar](web/home.png)
+![Gambar]()
 ![Gambar](web/about.png)
 ## Pertanyaan dan Tugas
 ## Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama. Laporan Praktikum
